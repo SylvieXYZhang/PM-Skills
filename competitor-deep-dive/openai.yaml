@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitor Deep Dive"
+  short_description: "Write PM competitor reports from detailed research"
+  default_prompt: "Use $competitor-deep-dive to turn these detailed competitor research materials into a PM-grade deep-dive report."
